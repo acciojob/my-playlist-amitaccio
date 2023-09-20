@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+
+.playlist{
+	background-color:white;
+	border:1px solid black;
+    border-radius:5px;
+}
+.playlist>ul>a{
+	  list-style-type: none;
+	 text-decoration-line: none;
+	 color:black;
+}
+.player_one{
+	background-color: rgb(255, 255, 255); 
+	border:1px solid black;
+	border-radius:5px;
+	padding:10px;
+}
